@@ -50,7 +50,10 @@ input{
     cursor:pointer;
     transition:.2s;
 
-    
+    /* display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center; */
 }
 
 .element button:hover{
