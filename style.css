@@ -17,8 +17,8 @@ body h3{
 
 .calcu{
     width:330px;
-    width:fit-content;
-    height:400px;
+    /* width: fit-content; */
+    height: 400px;
     padding:20px;
     border-radius:15px;
     background:#1f2937;
@@ -49,6 +49,8 @@ input{
     font-size:20px;
     cursor:pointer;
     transition:.2s;
+
+    
 }
 
 .element button:hover{
